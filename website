@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BalconyCoin</title>
+  <style>
+    body {
+    background-color: black;
+    color: white;
+    }
+   </style>
+</head>
+<body>
+  <h1>Welcome to the official website of BalconyCoin</h1>
+  <p>The pages are still a work in progress</p>
+</body>
+</html>
